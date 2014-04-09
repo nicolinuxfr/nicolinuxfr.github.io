@@ -12,11 +12,11 @@
 
         <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
 
-        <link rel="stylesheet" href="file:///Users/nicolas/Documents/Blog/_site/theme/css/normalize.css">
-        <link rel="stylesheet" href="file:///Users/nicolas/Documents/Blog/_site/theme/css/main.css">
-        <link rel="shortcut icon" href="file:///Users/nicolas/Documents/Blog/_site/theme/favicon.ico" type="image/x-icon"/>
-        <script src="file:///Users/nicolas/Documents/Blog/_site/theme/js/vendor/modernizr-2.6.2.min.js"></script>
-        <script src="file:///Users/nicolas/Documents/Blog/_site/theme/js/jquery.min.js"></script>
+        <link rel="stylesheet" href="nicolinuxfr.github.io/theme/css/normalize.css">
+        <link rel="stylesheet" href="nicolinuxfr.github.io/theme/css/main.css">
+        <link rel="shortcut icon" href="nicolinuxfr.github.io/theme/favicon.ico" type="image/x-icon"/>
+        <script src="nicolinuxfr.github.io/theme/js/vendor/modernizr-2.6.2.min.js"></script>
+        <script src="nicolinuxfr.github.io/theme/js/jquery.min.js"></script>
 
        <style>
         a
@@ -71,9 +71,9 @@
         </a>
         <nav>
         <ul>
-        <li><a href="file:///Users/nicolas/Documents/Blog/_site/index.html"> <i class="icon-home-1"></i></a></li>
-        <li><a href="file:///Users/nicolas/Documents/Blog/_site/about.html"><i class="icon-info-circled"></i></a></li>
-        <li><a href="file:///Users/nicolas/Documents/Blog/_site/atom.xml"><i class="icon-rss"></i></a></li>
+        <li><a href="nicolinuxfr.github.io/index.html"> <i class="icon-home-1"></i></a></li>
+        <li><a href="nicolinuxfr.github.io/about.html"><i class="icon-info-circled"></i></a></li>
+        <li><a href="nicolinuxfr.github.io/atom.xml"><i class="icon-rss"></i></a></li>
         </ul>
         </nav>
       </section>
@@ -107,7 +107,7 @@
                 <li>
                   <span class="icon-right-dir"><i>2014</i></span>
                 <ul>
-                <li><a href="file:///Users/nicolas/Documents/Blog/_site/2014/04/08/Mon-premier-article.html">Mon premier article</a></li>
+                <li><a href="nicolinuxfr.github.io/2014/04/08/Mon-premier-article.html">Mon premier article</a></li>
 
           </ul>
          </div>
@@ -120,7 +120,7 @@
             <li>
                     <span class="icon-right-dir"><i>Essai</i></span>
                   <ul>
-                  <li><a href="file:///Users/nicolas/Documents/Blog/_site/2014/04/08/Mon-premier-article.html">Mon premier article</a></li>
+                  <li><a href="nicolinuxfr.github.io/2014/04/08/Mon-premier-article.html">Mon premier article</a></li>
                 </ul>
                   </li>
 
@@ -145,10 +145,10 @@
 
 
 
-        <script src="file:///Users/nicolas/Documents/Blog/_site/theme/js/jquery.min.js"></script>
-        <script>window.jQuery || document.write('<script src="file:///Users/nicolas/Documents/Blog/_site/theme/js/vendor/jquery-1.10.2.min.js"><\/script>')</script>
-        <script src="file:///Users/nicolas/Documents/Blog/_site/theme/js/plugins.js"></script>
-        <script src="file:///Users/nicolas/Documents/Blog/_site/theme/js/main.js"></script>
+        <script src="nicolinuxfr.github.io/theme/js/jquery.min.js"></script>
+        <script>window.jQuery || document.write('<script src="nicolinuxfr.github.io/theme/js/vendor/jquery-1.10.2.min.js"><\/script>')</script>
+        <script src="nicolinuxfr.github.io/theme/js/plugins.js"></script>
+        <script src="nicolinuxfr.github.io/theme/js/main.js"></script>
 
 
         <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
