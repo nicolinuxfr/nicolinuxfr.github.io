@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Mon premier blog]]></title>
-  <link href="/atom.xml" rel="self"/>
-  <link href="/"/>
-  <updated>2014-04-09T08:12:22+02:00</updated>
-  <id>/</id>
+  <link href="file:///Users/nicolas/Documents/Blog/_site/atom.xml" rel="self"/>
+  <link href="file:///Users/nicolas/Documents/Blog/_site/"/>
+  <updated>2014-04-09T08:16:57+02:00</updated>
+  <id>file:///Users/nicolas/Documents/Blog/_site/</id>
   <author>
     <name><![CDATA[]]></name>
     <email><![CDATA[]]></email>
@@ -14,9 +14,9 @@
 
   <entry>
     <title type="html"><![CDATA[Mon premier article]]></title>
-    <link href="/2014/04/08/Mon-premier-article.html"/>
+    <link href="file:///Users/nicolas/Documents/Blog/_site/2014/04/08/Mon-premier-article.html"/>
     <updated>2014-04-08T14:43:59+00:00</updated>
-    <id>/2014/04/08/Mon-premier-article.html</id>
+    <id>file:///Users/nicolas/Documents/Blog/_site/2014/04/08/Mon-premier-article.html</id>
     <content type="html"><![CDATA[<p>Bla bla bla bla </p>
 ]]></content>
   </entry>
