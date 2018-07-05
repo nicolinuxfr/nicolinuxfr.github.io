@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Photos de Matcha</title>
+    <link href="https://nicolinuxfr.github.io/feed.xml" rel="self" />
+    <link href="https://nicolinuxfr.github.io" />
+    <updated>2018-07-05T17:40:55+02:00</updated>
+    <author>
+        <name>Nicolas Furno</name>
+    </author>
+    <id>https://nicolinuxfr.github.io</id>
+
+    <entry>
+        <title>Les chatons !</title>
+        <author>
+            <name>Nicolas Furno</name>
+        </author>
+        <link href="https://nicolinuxfr.github.io/Les-chatons/"/>
+        <id>https://nicolinuxfr.github.io/Les-chatons/</id>
+            <category term="photo"/>
+            <category term="chatons"/>
+
+        <updated>2018-07-05T17:30:32+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://nicolinuxfr.github.io/media/posts/4/20170423_135509.jpg" alt="" />
+                <p>Ils sont vraiment trop mignons… </p>
+<p><img src="https://nicolinuxfr.github.io/media/posts/4/IMG_9892.jpg" alt="" width="4032" height="3024"></p>
+<p>Juste après la naissance :</p>
+<p><img src="https://nicolinuxfr.github.io/media/posts/4/IMG_9199.jpg" alt="" width="2790" height="2356"></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Une galerie pour le plaisir</title>
+        <author>
+            <name>Nicolas Furno</name>
+        </author>
+        <link href="https://nicolinuxfr.github.io/une-galerie-pour-le-plaisir/"/>
+        <id>https://nicolinuxfr.github.io/une-galerie-pour-le-plaisir/</id>
+            <category term="galerie"/>
+            <category term="chat"/>
+
+        <updated>2018-07-05T17:25:31+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://nicolinuxfr.github.io/media/posts/3/IMG_1677.jpg" alt="" />
+                <p>C'est vrai ça !</p>
+<div class="gallery" contenteditable="false" data-is-empty="false" data-columns="3">
+<figure class="gallery__item"><a href="https://nicolinuxfr.github.io/media/posts/3/gallery/IMG_2060.jpg" data-size="4032x3024"><img src="https://nicolinuxfr.github.io/media/posts/3/gallery/IMG_2060-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
+<figure class="gallery__item"><a href="https://nicolinuxfr.github.io/media/posts/3/gallery/IMG_2407.jpg" data-size="4032x3024"><img src="https://nicolinuxfr.github.io/media/posts/3/gallery/IMG_2407-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
+<figure class="gallery__item"><a href="https://nicolinuxfr.github.io/media/posts/3/gallery/IMG_2375.jpg" data-size="4032x3024"><img src="https://nicolinuxfr.github.io/media/posts/3/gallery/IMG_2375-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
+<figure class="gallery__item"><a href="https://nicolinuxfr.github.io/media/posts/3/gallery/IMG_1677.jpg" data-size="4032x3024"><img src="https://nicolinuxfr.github.io/media/posts/3/gallery/IMG_1677-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
+<figure class="gallery__item"><a href="https://nicolinuxfr.github.io/media/posts/3/gallery/IMG_8802.jpg" data-size="4032x3024"><img src="https://nicolinuxfr.github.io/media/posts/3/gallery/IMG_8802-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
+</div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Matcha au début</title>
+        <author>
+            <name>Nicolas Furno</name>
+        </author>
+        <link href="https://nicolinuxfr.github.io/Matcha-au-debut/"/>
+        <id>https://nicolinuxfr.github.io/Matcha-au-debut/</id>
+            <category term="photo"/>
+            <category term="chat"/>
+
+        <updated>2018-07-05T17:20:43+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://nicolinuxfr.github.io/media/posts/2/IMG_8048.JPG" alt="" />
+                <p>Quand Matcha a débarqué chez nous, elle avait une portée depuis peu et probablement autour d'un an.</p>
+<p><img src="https://nicolinuxfr.github.io/media/posts/2/IMG_8530.jpg" alt="" width="4032" height="3024"></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Matcha aujourd&#x27;hui</title>
+        <author>
+            <name>Nicolas Furno</name>
+        </author>
+        <link href="https://nicolinuxfr.github.io/matcha-aujourdhui/"/>
+        <id>https://nicolinuxfr.github.io/matcha-aujourdhui/</id>
+            <category term="photo"/>
+            <category term="chat"/>
+
+        <updated>2018-07-05T17:26:14+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://nicolinuxfr.github.io/media/posts/1/IMG_3162.jpg" alt="" />
+                <p>Une photo récente de Matcha.</p>
+<p>Vous en voulez encore ? OK : </p>
+<p><img src="https://nicolinuxfr.github.io/media/posts/1/IMG_3288.jpg" alt="" width="4032" height="3024"></p>
+<p><img src="https://nicolinuxfr.github.io/media/posts/1/IMG_3187.jpg" alt="" width="4032" height="3024"></p>
+            ]]>
+        </content>
+    </entry>
+</feed>
